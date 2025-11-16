@@ -67,20 +67,20 @@ Website akan tersedia di http://localhost:8000.
 
 ## Struktur Folder
 
-php
-app/ # Logika backend (Models, Controllers)
-database/ # Migration dan seeder database
-resources/ # Blade templates, CSS, JS
-routes/ # File routing Laravel
-public/ # Assets publik (gambar, CSS, JS)
+### php
+
+1. app/ # Logika backend (Models, Controllers)
+2. database/ # Migration dan seeder database
+3. resources/ # Blade templates, CSS, JS
+4. routes/ # File routing Laravel
+5. public/ # Assets publik (gambar, CSS, JS)
 
 ## Lisensi
 
 Proyek ini dilisensikan di bawah MIT License.
 
-Catatan
-Pastikan PHP >= 8.1
+## Catatan
 
-MySQL / SQLite sudah tersedia dan dikonfigurasi di .env
-
-Tailwind CSS digunakan untuk desain modern dan responsif
+1. Pastikan PHP >= 8.1
+2. MySQL / SQLite sudah tersedia dan dikonfigurasi di .env
+3. Tailwind CSS digunakan untuk desain modern dan responsif
