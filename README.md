@@ -32,7 +32,7 @@
 1. Clone repository ini:
 
 ```bash
-git clone https://github.com/<username>/my-course.git
+git clone https://github.com/yogisepdu/my-course.git
 cd my-course
 Install dependency PHP:
 ```
